@@ -4,3 +4,6 @@ Tja nun soll eine kleine Beschreibung meines Charakters erfolgen. Nun, ich bin h
 * lernbereit
 * datensparsam
 * netlego
+
+NETlego
+> Don't lego the NET
